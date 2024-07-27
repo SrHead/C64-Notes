@@ -12,10 +12,10 @@ If you need further technical details I suggest [codebase64.org](codebase64.org)
 ### Notes on Commodore 64 Hardware
 
 + [C64 Memory Map](notes/C64-memory-map.md) A simplified memory map for C64
-+ [VIC Memory Pointers](https://github.com/wizofwor/C64-Notes/blob/master/notes/Memory-locations-used-by-VIC.md) VIC Memory pointers and corresponding memory areas
-+ [Screen Modes](https://github.com/wizofwor/C64-Notes/blob/master/notes/C64-screen-modes.md) Built in screen modes
++ [VIC Memory Pointers](https://github.com/SrHead/C64-Notes/blob/master/notes/Memory-locations-used-by-VIC.md) VIC Memory pointers and corresponding memory areas
++ [Screen Modes](https://github.com/SrHead/C64-Notes/blob/master/notes/C64-screen-modes.md) Built in screen modes
 
  
 ### Code Examples
 
-+ You can find code examples on my other repo [C64 assembly examples](https://github.com/wizofwor/C64-assembly-examples)
++ You can find code examples on my other repo [C64 assembly examples](https://github.com/SrHead/C64-assembly-examples)
