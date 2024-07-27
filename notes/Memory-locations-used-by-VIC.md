@@ -21,7 +21,7 @@ $dd00 | Bank | Adress Range
 
 *rom character set is not available in these banks
 
-Do not forget, certain regions of Commodore 64 memory are used by ROM by default. If you want to utilise the adress range already occupied by ROM as RAM, you should disable ROM. Consult [memory map](https://github.com/wizofwor/C64-Notes/blob/master/Memory-Map.md) to see overlying Rom fields.
+Do not forget, certain regions of Commodore 64 memory are used by ROM by default. If you want to utilise the adress range already occupied by ROM as RAM, you should disable ROM. Consult [memory map](https://github.com/SrHead/C64-Notes/blob/master/Memory-Map.md) to see overlying Rom fields.
 
 ### SCREEN_RAM
 
