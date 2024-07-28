@@ -3,7 +3,8 @@
 Aquí les comparto mis notas de trabajo sobre ensamblador del 6502/6510. Tengan en cuenta que, si bien intento que las cosas sean sencillas y fáciles de entender para los principiantes, como yo también soy principiante, las notas pueden estar incompletas o contener algunos errores.
 
 Si necesita más detalles técnicos le sugiero codebase64.org Atari Roots
-[Atari Roots](http://www.atariarchives.org/roots/index.php)
+[Atari Roots](http://www.atariarchives.org/roots/index.php).
+
 Este Este documento es una traducción del ingles del trabajo realizado por [wizofwor](https://github.com/wizofwor/C64-Notes)
 
 ---
