@@ -1,6 +1,6 @@
-#Branches
+# Branches
 
-##Unconditional Branch Instructions
+## Unconditional Branch Instructions
 
 JMP - Jumps to another location  
 JSR - Jump to a subroutine  
