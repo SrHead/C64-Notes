@@ -10,13 +10,13 @@ Este documento es una traducción del ingles del trabajo realizado por [wizofwor
 ---
 
 ### Instrucciones del 6502
-+ [Instrucciones de Salto y Comparación](https://github.com/SrHead/C64-Notes/blob/master/notes/Branches.md) Instrucciones de Salto y Comparación
++ [Instrucciones de Salto y Comparación](https://github.com/SrHead/C64-Notes/blob/master/notes/Branches.md)
 
 ### Hardware del Commodore 64
 
-+ [C64 Memory Map](notes/C64-memory-map.md) Un mapa de memoria del C64 simplificado
++ [Mapa de memoria del C64](notes/C64-memory-map.md)
 + [VIC Memory Pointers](https://github.com/SrHead/C64-Notes/blob/master/notes/Memory-locations-used-by-VIC.md) Punteros de memoria del VIC y sus áreas de memoria corrrespondites
-+ [Screen Modes](https://github.com/SrHead/C64-Notes/blob/master/notes/C64-screen-modes.md) Built in screen modes
++ [Modos de pantalla](https://github.com/SrHead/C64-Notes/blob/master/notes/C64-screen-modes.md)
 
  
 ### Ejemplos de código
