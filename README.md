@@ -15,7 +15,7 @@ Este documento es una traducción del ingles del trabajo realizado por [wizofwor
 ### Hardware del Commodore 64
 
 + [Mapa de memoria del C64](notes/C64-memory-map.md)
-+ [VIC Memory Pointers](https://github.com/SrHead/C64-Notes/blob/master/notes/Memory-locations-used-by-VIC.md) Punteros de memoria del VIC y sus áreas de memoria corrrespondites
++ [VIC Memory Pointers](https://github.com/SrHead/C64-Notes/blob/master/notes/Memory-locations-used-by-VIC.md) Punteros de memoria del VIC y sus áreas de memoria correspondientes
 + [Modos de pantalla](https://github.com/SrHead/C64-Notes/blob/master/notes/C64-screen-modes.md)
 
  
