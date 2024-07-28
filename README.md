@@ -21,4 +21,4 @@ Este documento es una traducción del ingles del trabajo realizado por [wizofwor
  
 ### Ejemplos de código
 
-+ Puede encontrar ejemplos de código en [C64 assembly examples](https://github.com/SrHead/C64-assembly-examples)
++ Puede encontrar ejemplos de código en [C64 assembly examples](https://github.com/wizofwor/C64-assembly-examples)
