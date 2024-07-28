@@ -2,10 +2,12 @@
 
 Welcome dear fellows of mighty 64. Here I'm sharing my work notes on 6502/6510 assembly. Please keep in mind that, even though I'm trying to keep things simple and easy to understand for beginners, as I am also a beginner the notes can be incomplete or bear some errors.
 
-If you need further technical details I suggest [codebase64.org](codebase64.org)
+If you need further technical details I suggest codebase64.org Atari Roots
 [Atari Roots](http://www.atariarchives.org/roots/index.php)
 Este Este documento es una traducción del ingles del trabajo realizado por [wizofwor](https://github.com/wizofwor/C64-Notes)
+
 ---
+
 ### Notes on 6502 Assembly Instructions
 + [Branches](https://github.com/SrHead/C64-Notes/blob/master/notes/Branches.md) Branch and comparison instructions
 
