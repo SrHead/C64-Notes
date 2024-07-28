@@ -10,7 +10,7 @@ Este documento es una traducción del ingles del trabajo realizado por [wizofwor
 ---
 
 ### Instrucciones del 6502
-+ [Branches](https://github.com/SrHead/C64-Notes/blob/master/notes/Branches.md) Instrucciones de Salto y Comparación
++ [Instrucciones de Salto y Comparación](https://github.com/SrHead/C64-Notes/blob/master/notes/Branches.md) Instrucciones de Salto y Comparación
 
 ### Hardware del Commodore 64
 
